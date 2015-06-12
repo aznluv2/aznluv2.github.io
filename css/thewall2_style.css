@@ -386,7 +386,7 @@ img, object, embed, video {
 	margin-left: auto;
     margin-right: auto;
     margin-top: 52px;
-	width: 17em
+	
 }
 .redtext{
 	font-family:Menlo;
@@ -395,7 +395,7 @@ img, object, embed, video {
 	margin-top:-15px;
 	margin-left: auto;
     margin-right: auto;
-    width: 20em
+    
 }
 
 
@@ -405,7 +405,7 @@ img, object, embed, video {
     color:#999;
     margin-left: auto;
     margin-right: auto;
-    width: 17em
+    
 }
 
 .redtext2{
@@ -415,6 +415,6 @@ img, object, embed, video {
     margin-top:-7px;
     margin-left: auto;
     margin-right: auto;
-    width: 18em
+   
 }
 }
